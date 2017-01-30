@@ -1,0 +1,15 @@
+{
+	"appetizers": [{
+		"name": "salad",
+		"ing": ["tomato", "parsley"],
+		"price": 10
+	}, {
+		"name": "fattoush",
+		"ing": ["tomato, parsley, lettuce"],
+		"price": 15
+	}, {
+		"name": "fries",
+		"ing": ["potato, salt"],
+		"price": 20
+	}]
+}

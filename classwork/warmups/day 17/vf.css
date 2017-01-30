@@ -1,0 +1,13 @@
+body{
+      background: url("background.jpeg") fixed;
+    background-size: cover;
+    background-position: center; 
+}
+label {
+    color: blueviolet;
+    font-size: 20px;
+}
+input {
+    color: darkmagenta;
+    font-size: 50px;
+}

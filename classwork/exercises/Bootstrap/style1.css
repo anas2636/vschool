@@ -1,0 +1,37 @@
+/*.box {
+    background-color: aqua;
+    border-color: aliceblue;
+    border-width: 10px;
+    width: 100px;
+    height: 150px;
+   };
+.navbar {
+    color: brown;
+    border-color: black;
+};
+.navbar-brand {
+    color: brown;
+    border-color: black;
+    
+};
+nav {
+    color: bisque;
+    border-color: black;
+};
+.aqsw {
+    color: black;
+    border-color: aquamarine;
+    background-color: aqua;
+    font-size: 15px;
+
+};
+botton {
+    
+};
+a {
+    column-rule-color: aqua;
+};
+*/
+h1 {
+    color: coral;
+}

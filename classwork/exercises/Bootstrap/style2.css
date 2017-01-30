@@ -1,0 +1,33 @@
+.red {
+    background-color: #F5C6D6;
+/*    border-width: 10px;*/
+    width: 100%;
+    height: 150px; 
+    margin-bottom: 20px;
+}
+.redf {
+    background-color: darkviolet;
+/*    border-width: 10px;*/
+    width: 100%;
+    height: 150px;  
+    margin-bottom: 20px;
+}
+.we {
+    background-color: #85CFD8;
+    width: 100%;
+    height: 150px;  
+    margin-bottom: 20px;
+}
+.qw {
+   background-color: #8DC63F;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.qw1 {
+   background-color: #E76E34;
+   width: 100%;
+   height: 150px;
+   margin-bottom: 20px;
+    
+}

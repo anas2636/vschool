@@ -1,0 +1,14 @@
+table {
+    border-spacing: 10px; 
+}
+th, td {
+    color: blueviolet;
+    padding: 0px 0px 0px 0px;
+    border left: 1px;
+    border right: 1px;
+    border-spacing: 0px;
+}
+tr:nth-child(odd) {
+    color: aqua;
+    background-color: bisque 
+}

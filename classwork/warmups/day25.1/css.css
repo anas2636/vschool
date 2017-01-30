@@ -1,0 +1,36 @@
+.asdf {
+    text-align: center;
+    margin-top: 55px;
+}
+.name {
+    font-size: 55px;
+    color: brown;
+}
+#input  {
+    margin-top: 25px;
+    font-size: 25px;
+   background-color: rgba(240, 248, 255, 0.13);
+}
+#qwert {
+    font-size: 20px;
+/*
+    border-color: burlywood;
+    color: wheat;
+*/
+    
+}
+#text1 {
+    
+    font-size: 30px;
+    color: saddlebrown;
+}
+body{
+    background: url("6320ec8389fb0e7.jpg") fixed;
+    background-size: cover;
+    background-position: center; 
+}
+ul {
+    text-align: left;
+    
+    
+}

@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    
+}
+.box {
+    text-align: center;
+    color: blue;
+    border-color: darkgrey;
+    border: 10px 10px 10px 10px;
+    font-size: 20px;
+/*  width: 100px*/*/
+}
+.box1 {
+   border-color: black;
+}
+
+b {
+    color: crimson;
+    font-size: 20px;
+        
+}

@@ -1,0 +1,38 @@
+
+var obj = {
+  name: "Jacob",
+  eyeColor: "brown"
+}
+
+var objJson = {
+  "name": "Jacob",
+  "eyeColor": "brown",
+  "numberOfTimesIYelledToday": 2
+}
+
+
+[
+  {
+    "name": "Jacob",
+    "numberOfTimesIYelledToday": 2,
+    "friends": [
+      {
+        "name": "so",
+        "eyeColor": "blue"
+      },
+      {
+        "name": "Mo",
+        "eyeColor": "watermelon?"
+      }
+      
+    ]
+  },
+   {
+    "name": "Jameel",
+    "numberOfTimesIYelledToday": 100
+  },
+   {
+    "name": "Haithiam",
+    "numberOfTimesIYelledToday": 0
+  }
+]

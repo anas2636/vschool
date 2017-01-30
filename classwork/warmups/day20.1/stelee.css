@@ -1,0 +1,15 @@
+body{
+    background: url("8851ad73-0d10-4844-80ac-2a62a48194b4.jpg") fixed;
+    background-size: cover;
+    background-position: center; 
+}
+div {
+    text-align: center;
+    margin: 20px;
+}
+.submit {
+    display: inline-block;
+}
+table {
+    color: crimson;
+}

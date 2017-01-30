@@ -1,0 +1,24 @@
+#main{
+    color: blue;
+    background: red;
+    border: 1px solid gerrn ;
+    width: 200px;
+    
+    font-size: 50px;
+    padding: inherit;
+    margin: auto;
+    text-align: center;
+    
+}
+.sub{
+    text-align: center;
+    
+}
+b{
+    font-size: 25px;
+    border: 10px solid red;
+padding: 10px 20px;
+}
+img{
+    
+}
